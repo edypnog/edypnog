@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edy!</h1>
 <h3 align="center">A passionate technology student from Brazil</h3>
 
-- 🌱 I’m currently learning Web Development **by myself**
+- 🌱 I'm a Back-End Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/edypnog](https://github.com/edypnog)
 
-- ⚡ Fun fact **I like to play guitar and learn languages**
+- ⚡ Fun fact **I like to play piano and learn languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
