@@ -23,10 +23,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/edypnog/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edypnog&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/edypnog/edypnog.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edypnog&repo=edypnog.github.io&theme=buefy" />
 </a>
 
