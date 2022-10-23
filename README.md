@@ -20,3 +20,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edypnog&show_icons=true&locale=en&layout=compact" alt="edypnog" /></p>
 
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edypnog&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edypnog&repo=edypnog.github.io&theme=buefy" />
+</a>
+
+<br />
