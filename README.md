@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rails, Django and UI Design.**
 
-- ⚡ Fun fact **i like to play piano and sad movies.**
+- ⚡ Fun fact **i like to play piano :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
