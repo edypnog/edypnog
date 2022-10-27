@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **Rails and Django.**
+- 🌱 I’m currently learning **Rails, Django and UI Design.**
 
 - ⚡ Fun fact **i like to play piano and sad movies.**
 
