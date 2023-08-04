@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Edy</h1>
 <h3 align="center">A passionate mobile and back-end developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Kotlin, Flutter and Python Web**
+- 🌱 I’m currently learning **Flutter and Python Web**
 
 <p align="left">
 </p>
