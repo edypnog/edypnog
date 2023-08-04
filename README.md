@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Kotlin, Flutter and Python Web**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
