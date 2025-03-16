@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,react,py,django,flask,fastapi&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,react,py,django,flask,fastapi,ts,vue&perline=6)](https://skillicons.dev)
 
 </p>
 
