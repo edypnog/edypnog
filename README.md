@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Edy</h1>
-<h3 align="center">A passionate designer and developer from Brazil.</h3>
+<h3 align="center">Cyber Security learner and web developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **VueJS, Svelte and CyberSecurity**
+- 🌱 I’m currently learning **CyberSecurity**
 
 <p align="left">
 </p>
