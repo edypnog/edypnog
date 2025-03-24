@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Edy</h1>
-<h3 align="center">Cyber Security learner and web developer from Brazil.</h3>
+<h3 align="center">Cyber Security self-student and Front-End Developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **CyberSecurity**
 
